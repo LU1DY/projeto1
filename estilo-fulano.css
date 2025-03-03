@@ -1,7 +1,12 @@
 h1 {
-    color: red;
+  color: red;
 }
 
 p {
-    color: blue;
+  color: blue;
+}
+
+a {
+  text-align: center;
+  text-decoration: underline;
 }
