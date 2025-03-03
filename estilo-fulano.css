@@ -10,3 +10,7 @@ a {
   text-align: center;
   text-decoration: underline;
 }
+
+p {
+    font-size: 2.8rem;
+}
